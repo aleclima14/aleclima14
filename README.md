@@ -1,5 +1,9 @@
 ## Olá! Eu sou o Alecsander Lima
 
+- Sou estudante de engenharia elétrica
+- Especialista em impressão 3D
+- Projetista nas horas vagas
+
 <div align="center">
   <a href="https://github.com/aleclima14">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleclima14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
