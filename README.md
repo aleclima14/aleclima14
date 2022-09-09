@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Alecsander Lima
 
-- Sou estudante de engenharia elétrica
-- Especialista em impressão 3D
-- Projetista nas horas vagas
+Sou técnico em eletrotécnica e estou cursando graduação de Engenharia Elétrica. Atualmente estou trabalhando no ramo automotivo desenvolvendo firmware para rastreadores, acessórios e itens OEM. Mas já trabalhei no desenvolvimento de impressoras 3D de forma integral (desde mecânica até software).  
+
+Aqui nesse repositório coloco alguns de meus projetos pessoais desenvolvidos com Arduino, ESP e STM32. 
 
 <div align="center">
   <a href="https://github.com/aleclima14">
